@@ -1,3 +1,5 @@
+remote_theme : Huxpro/huxpro.github.io
+
 # Site settings
 title: failed.commune
 SEOTitle: 데이터분석에서 엔지니어로 | 내가 배운 것들
@@ -13,10 +15,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+github_username:    failed.commune
+#twitter_username:   huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
