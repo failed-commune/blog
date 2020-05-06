@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/grapes.png
+cover: assets/images/grapes.jpg
 navigation: True
 title: "사례 기반 학습과 모델 기반학습"
 date: 2020-04-29
