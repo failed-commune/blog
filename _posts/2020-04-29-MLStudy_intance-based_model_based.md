@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/ml_instanceVSmodel.png
+cover: assets/images/grapes.png
 navigation: True
 title: "사례 기반 학습과 모델 기반학습"
 date: 2020-04-29
